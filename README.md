@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Popsyynn
-- 👀 I’m interested in ...Artificial Intelligence
-- 🌱 I’m currently learning ...Data Science and analytics
-- 💞️ I’m looking to collaborate on ...any Data Science or Data analysis project
-- 📫 How to reach me ...+2348174336178
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Mircoservices with Spring Boot and Spring Cloud
+- 💞️ I’m looking to collaborate on any Spring Boot Project
+- 📫 How to reach me ...  popsyynn@gmail.com
 
 <!---
 Popsyynn/Popsyynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
