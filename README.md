@@ -1,4 +1,4 @@
-👋 Hello there! I'm POPOOLA Olaitan, a passionate Java Backend Developer with a keen interest in building robust and scalable server-side applications. 💻
+👋 Hello there! I'm Popsyynn, a passionate Java Backend Developer with a keen interest in building robust and scalable server-side applications. 💻
 
 🚀 Over the years, I've honed my skills in Java programming and have specialized in developing backend solutions using the powerful Spring Boot framework. I thrive on crafting efficient and elegant code that not only meets the requirements but also emphasizes maintainability and extensibility.
 
